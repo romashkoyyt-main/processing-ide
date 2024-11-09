@@ -1,2 +1,2 @@
-# processing-ide
+# Processing IDE
 IDE written in processing.
